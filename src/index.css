@@ -877,7 +877,7 @@ a:focus {
   line-height: 3rem;
   text-align: center;
 }
-.list-item.TASK_PINNED .icon-star {
+.list-item.TASK_STARRED .icon-star {
   color: #2cc5d2;
 }
 .list-item.TASK_ARCHIVED input[type="text"] {
